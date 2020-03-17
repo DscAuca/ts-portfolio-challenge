@@ -1,0 +1,30 @@
+{
+  "name": "ts-portfolio-challenge",
+  "version": "1.0.0",
+  "description": "portfolio design challenge",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/live-server/live-server --port=8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DscAuca/ts-portfolio-challenge.git"
+  },
+  "keywords": [
+    "dscauca",
+    "dsc",
+    "dscssa",
+    "googledevs",
+    "developerstudentclubs"
+  ],
+  "author": "dscauca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DscAuca/ts-portfolio-challenge/issues"
+  },
+  "homepage": "https://github.com/DscAuca/ts-portfolio-challenge#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
