@@ -40,7 +40,9 @@ $ npm start
 
 
 ## Contributing
-Pull requests are welcome. basically you have to create a pull request named your github username plus portfolio for example `slviosage-portfolio`.
+Pull requests are welcome. basically you have to create a branch named named your github username plus portfolio for example    `salviosage-portfolio` and after you will have to brach off your branches to create other branches .
+
+every pull reauest will have to be reviewed by three of your teammate before being merged to the `develop` brach
 
 
 
